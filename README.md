@@ -1,6 +1,6 @@
 # 交互可视化期末项目
 
-- [Pythonanywhere链接](http://jx871614147.pythonanywhere.com/)：
+- [Pythonanywhere链接](http://jx871614147.pythonanywhere.com/)：由于18同学没有将另一个页面部署，可以下载项目文档仓库到本地进行查看
 - [项目文档仓库链接：](https://github.com/VickyCN/finalvisual)
 
 ## 项目背景
